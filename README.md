@@ -55,14 +55,14 @@ To fix this:
 1. Download my processing config from **Release**.  
 2. Press **Win + R** and type:  
 `%appdata%\mp3tag\data\actions`
-3. Paste `Remove Timestamps - Convert Artwork.mta` into that folder.  
+3. Paste `RemoveTimestampsConvertArtwork.mta` into that folder.  
 
 <p>
 <img src="Img/MTAPlace.png" alt="MTA Placement"/>
 </p>  
 
 4. Open **MP3Tag** and drag your AAC folder or files into the window.  
-5. Select all AAC files → Right-click → `Actions` → **Remove Timestamps - Convert Artwork**.  
+5. Select all AAC files → Right-click → `Actions` → **RemoveTimestampsConvertArtwork**.  
 
 ![AAC Actions](Img/AACActions.png)  
 
