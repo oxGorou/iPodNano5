@@ -2,7 +2,6 @@
 
 <p>
   <img src="Img/Na1.png" alt="iPod Nano Front" width="300"/>
-  <img src="Img/Na2.png" alt="iPod Nano Front 2" width="300"/>
   <img src="Img/Na3.png" alt="iPod Nano Back" width="300"/>
 </p>
 
